@@ -1,3 +1,4 @@
-# Spam classification using a simple Perceptron Algorithm.
+# Spam classification using a simple Perceptron Algorithm using scikit-learn library
+
 # 
 
