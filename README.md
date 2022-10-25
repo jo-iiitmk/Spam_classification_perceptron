@@ -1,1 +1,3 @@
-# Spam_classification_perceptron
+# Spam classification using a simple Perceptron Algorithm.
+# 
+
